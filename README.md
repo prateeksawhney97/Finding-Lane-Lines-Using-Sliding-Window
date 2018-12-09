@@ -3,6 +3,9 @@
 
 ### Implemented Sliding Windows and Fit a Polynomial on the warped Image
 
+#### Histogram Peaks
+
+
 #### Input Warped Image
 
 ![warped-example](https://user-images.githubusercontent.com/34116562/49694433-f995e900-fbaf-11e8-8686-44b0281c48e3.jpg)
