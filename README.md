@@ -5,6 +5,8 @@
 
 #### Histogram Peaks
 
+![histogram](https://user-images.githubusercontent.com/34116562/49695287-d161b680-fbbe-11e8-9680-aee524b376d2.png)
+
 
 #### Input Warped Image
 
